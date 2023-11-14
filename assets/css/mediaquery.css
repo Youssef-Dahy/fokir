@@ -1,0 +1,156 @@
+/*Start Media of Nav section */
+@media screen and (max-width: 600px) {
+    .nav-links{
+      /* float: none; */
+      width: 50%;
+    }
+  }
+/*End Media of Nav section */
+
+/*Start Media of Hello section */
+@media screen and (max-width: 600px) {
+    .hello-img,.hello-about,.hello-about-right,.hello-button{
+      /* float: none; */
+      width: 100%;
+    }
+  }
+  @media screen and (min-width:601px) and (max-width:768px){
+    .hello-img,.hello-about{
+        width: 50%;
+    }
+} 
+@media screen and (min-width:769px) and (max-width:992px){
+    .hello-img{
+        width: 33.33333%;
+    }
+    .hello-content{
+        width: 66.6667%;
+    }
+}
+@media screen and (min-width:992px) and (max-width:1200px){
+    .hello-img{
+        width: 33.33333%;
+    }
+    .hello-content{
+        width: 66.6667%;
+    }
+}
+/*End Media of Hello section */
+
+/* Start Media of services section */
+@media screen and (max-width: 600px) {
+    .service-caption{
+      width: 100%;
+    }
+      
+    }
+    @media screen and (min-width:601px) and (max-width:768px){
+      .service-caption{
+          width: 50%;
+      }
+  }
+  @media screen and (min-width:769px) and (max-width:992px){
+      .service-caption{
+          width: 25%;
+      }
+  }
+/* End Media of services section */
+
+/* Start Media of Our Portfolio section */
+@media screen and (max-width: 600px) {
+    .our-portfolio-caption{
+      width: 100%;
+    }
+      
+    }
+    @media screen and (min-width:601px) and (max-width:768px){
+      .our-portfolio-caption{
+        width: 33.3333%;
+      }
+  }
+  @media screen and (min-width:769px) and (max-width:992px){
+      .our-portfolio-caption{
+          width: 33.3333%;
+      }
+  }
+/* End Media of Our Portfolio section */
+
+
+/* End Media of Counter section */
+@media screen and (max-width: 600px) {
+    .counter-caption{
+      width: 100%;
+    }
+      
+    }
+    @media screen and (min-width:601px) and (max-width:768px){
+      .counter-caption{
+          width: 50%;
+      }
+  }
+  @media screen and (min-width:769px) and (max-width:992px){
+      .counter-caption{
+          width: 25%;
+      }
+  }
+/* End Media of Counter section */
+
+
+/* Start Media of feedback section */
+@media screen and (max-width: 600px) {
+  .row-feedback,.feedback-caption{
+    width: 100%;
+  }
+    
+  }
+  @media screen and (min-width:601px) and (max-width:768px){
+    .row-feedback,.feedback-caption{
+        width: 100%;
+    }
+}
+@media screen and (min-width:769px) and (max-width:992px){
+    .row-feedback,.feedback-caption{
+        width: 100%;
+    }
+}
+/* End Media of feedback section */
+
+/* Start Media  of Our Blog section */
+@media screen and (max-width: 600px) {
+    .our-blog-caption{
+      width: 100%;
+    }
+      
+    }
+    @media screen and (min-width:601px) and (max-width:768px){
+      .our-blog-caption{
+          width: 50%;
+      }
+  }
+  @media screen and (min-width:769px) and (max-width:992px){
+      .our-blog-caption{
+          width: 33.3333%;
+      }
+  }
+/* End Media  of Our Blog section */
+
+/* Start Media  of Contact US section */
+@media screen and (max-width: 600px) {
+  .row-contact-us,.contact-btn input{
+    width: 100%;
+  }
+    
+  }
+  @media screen and (min-width:601px) and (max-width:768px){
+    .row-contact-us,.contact-btn input{
+        width: 100%;
+    }
+}
+@media screen and (min-width:769px) and (max-width:992px){
+    .row-contact-us,.contact-btn input{
+        width: 100%;
+    }
+}
+/* End Media  of Contact US  section */
+
+
